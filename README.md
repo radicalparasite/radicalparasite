@@ -5,15 +5,15 @@
 ![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=80b674&style=flat&label=flowers)
 
 
-<img align="left" width="300" src="YOUR_IMAGE_URL">
+<table>
+  <tr>
+    <td>
+      <img src="https://magma.com/shared/LlRiHN3Z7Wp0z_ZxjX18eD" width="360" />
+    </td>
+    <td>
+      Your side-by-side text goes here. This functions exactly like a Markdown table but renders without standard border dividers on many GitHub views.
+    </td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <td align="center"
-      <td>${\color{#b86b24}\text{dont mind this LOL}}$<br>
-      </td>
-    </tr>
-  </table>
-
-<br clear="left" />
 
