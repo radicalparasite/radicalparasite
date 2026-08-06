@@ -7,7 +7,13 @@
 
 <img align="left" width="300" src="YOUR_IMAGE_URL">
 
-Your side-by-side text starts here. The text will automatically wrap and flow right next to the left-aligned image. If your text is longer than the height of the image, it will eventually wrap underneath it.
+  <table>
+    <tr>
+      <td align="center"
+      <td>${\color{#b86b24}\text{dont mind this LOL}}$<br>
+      </td>
+    </tr>
+  </table>
 
 <br clear="left" />
 
