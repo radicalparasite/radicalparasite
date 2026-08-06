@@ -8,10 +8,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://magma.com/shared/LlRiHN3Z7Wp0z_ZxjX18eD" width="300" />
+      <img src="https://magma.com/shared/LlRiHN3Z7Wp0z_ZxjX18eD" width="230" />
     </td>
     <td>
-    ${\color{#e272ff}\text{test}}$<br>
+    ${\color{#e272ff}\text{helloo!! you can call me fresh or kim!!}}$<br>
     </td>
   </tr>
 </table>
