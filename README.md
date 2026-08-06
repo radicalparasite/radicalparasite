@@ -11,7 +11,7 @@
       <img src="https://magma.com/shared/LlRiHN3Z7Wp0z_ZxjX18eD" width="300" />
     </td>
     <td>
-      Your side-by-side text goes here. This functions exactly like a Markdown table but renders without standard border dividers on many GitHub views.
+    ${\color{#e272ff}\text{test}}$<br>
     </td>
   </tr>
 </table>
