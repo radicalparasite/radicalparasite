@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#e96bff}\text{i block freely, There is a reason i blocked you.}}$<br>
+      <td>${\color{#e96bff}\text{Be aware, i block freely!}}$<br>
       </td>
     </tr>
   </table>
