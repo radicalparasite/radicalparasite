@@ -53,6 +53,13 @@
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td align="center">
+      ${\color{#83707f}\text{I use tonetags because it's how i type and i'm sorry if offend you about that!}}$
+      <br>
+    </td>
+  </tr>
+</table>
 
 
