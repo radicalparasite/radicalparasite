@@ -3,20 +3,56 @@
 
 
  <p align="center">
-  <img src="https://magma.com/shared/zPV3XDxqdNSHAd5UPFVqrj" alt="Alt Text" width="250" />
+  <img src="https://64.media.tumblr.com/fc39dd6ec7fc97ee9582b9fd3ff1c9a0/466cad1e82d957f5-22/s2048x3072/83850de2dffff5cf6f32eec8ef6d523ed02136c0.gifv" alt="Alt Text" width="500" />
 </p>
 
-![](https://64.media.tumblr.com/80894ac41274a9139dd74b425a33b8fa/728f5c17a576ce01-de/s540x810/0961dea54de879c789caeae5165205547b760133.gifv)
+![](https://64.media.tumblr.com/65da69575a99987f64e11209671bebe2/6eabe8cd53a3e20b-8f/s2048x3072/82eb61f099bc7798d684cdb2c404eae67ab5484c.gifv)
 
-![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=e96bff&style=plastic&label=YOLO+FANS)
+![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=dea7a4&style=plastic&label=KIDS+COVE+KITS)
 
-<img src="https://64.media.tumblr.com/f931e1e23545b6265d2378131353c45c/aaea280ea2b2b40e-86/s250x400/977862f010e8ea913a819040cf83c6f09a6dfdee.pnj" alt="Alt Text" width="100" /> <img src="https://64.media.tumblr.com/8490c31638830d8ab9b782e368e5ebc0/aaea280ea2b2b40e-36/s250x400/cf9183a9a023eaebaee76ba26c37f2964157e055.pnj" alt="Alt Text" width="100" /> <img src="https://64.media.tumblr.com/3c7a0ddf3dd47226e51601b7734355f8/aaea280ea2b2b40e-64/s250x400/c473409986a7fe1b0dc0d86f743dbc87c00143d7.pnj" alt="Alt Text" width="100" />
+<img src="https://64.media.tumblr.com/ec03b0af20d498f299df5f3bfb469838/466cad1e82d957f5-01/s100x200/41504c84612eeaeaf08fd9f8103082e2e77e8972.gifv" alt="Alt Text" width="100" /> <img src="https://64.media.tumblr.com/ed43a5683356e75faadfa11e67c51c30/466cad1e82d957f5-22/s100x200/aaeb87b8f83c3d59d6c5ad6a22878769857029fd.gifv" alt="Alt Text" width="100" /> <img src="https://64.media.tumblr.com/5d5badcc5dedc6fedfdcef9152b27552/466cad1e82d957f5-ec/s100x200/70f7d6828b108926bdda27b120cd347b3c6dd429.gifv" alt="Alt Text" width="100" />
 
 
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#e96bff}\text{Be aware, i block freely!}}$<br>
+      <td>${\color{#83707f}\text{Be aware, i block freely!}}$<br>
       </td>
     </tr>
   </table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      ${\color{#362a37}\text{Mangle graphics by fire44fun on tumblr}}$
+      <br>
+    </td>
+  </tr>
+</table>
+
+
+![](https://64.media.tumblr.com/65da69575a99987f64e11209671bebe2/6eabe8cd53a3e20b-8f/s2048x3072/82eb61f099bc7798d684cdb2c404eae67ab5484c.gifv)
+
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      ${\color{#83707f}\text{Hello! Please call me by mangle, kim or fresh! ever one of them.}}$
+      <br>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      ${\color{#362a37}\text{DNI LIST : BASIC DNI, problematic media, Weirdos in general. }}$
+      <br>
+    </td>
+  </tr>
+</table>
+
+
+
