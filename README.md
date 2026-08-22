@@ -61,5 +61,12 @@
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td align="center">
+      ${\color{#362a37}\text{ps.. im sharing for my f/os <3 }}$
+      <br>
+    </td>
+  </tr>
+</table>
 
